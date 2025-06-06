@@ -107,3 +107,15 @@ xrandr -s 1600x900
 cat .bash_profile 
 reboot
 sudo reboot
+gc
+git status
+gp
+exit
+gc
+git status
+gc
+nano .bashrc 
+gc
+bash
+exit
+nano .bashrc 
