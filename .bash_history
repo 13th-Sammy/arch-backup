@@ -66,3 +66,44 @@ tree .config/
 clear
 sudo reboot
 nano .gitignore
+cat pkgList 
+ls -la
+sudo pacman -Syu ssh-keygen
+sudo pacman -Q ssh
+sudo pacman -Syu openssh
+nano pkgList 
+git config --global user.name 13th-Sammy
+git config --global user.email 213174535+13th-Sammy@users.noreply.github.com
+git config --global init.defaultBranch main
+git config --global pull.ff only
+git config --list
+cat pkgList 
+ssh-keygen -t ed25519 -C 213174535+13th-Sammy@users.noreply.github.com
+ls -la
+nano .ssh/id_ed25519.pub 
+cat .ssh/id_ed25519.pub 
+nano README.md
+ls .config/
+ncdu 
+ls -la
+git init
+ls -la
+git status
+git add . && git commit -m "Update"
+git remote add origin git@github.com:13th-Sammy/arch-backup.git
+git remote -v
+git push origin main
+xrandr
+xrandr -s
+xrandr --help
+xrandr -s --help
+xrandr -s 1920x1080
+clear
+ls -la
+git status
+nano .bashrc
+nano .bash_profile 
+xrandr -s 1600x900
+cat .bash_profile 
+reboot
+sudo reboot
