@@ -1,0 +1,7 @@
+[user]
+	name = 13th-Sammy
+	email = 213174535+13th-Sammy@users.noreply.github.com
+[init]
+	defaultBranch = main
+[pull]
+	ff = only
