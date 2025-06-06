@@ -6,4 +6,3 @@
 
 # Start X Server at login
 startx
-xrandr -s 1920x1080
