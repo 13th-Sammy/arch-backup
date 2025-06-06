@@ -119,3 +119,32 @@ gc
 bash
 exit
 nano .bashrc 
+ls -la
+ls -la
+gc && gp
+nano .bash_logout 
+cat .bash_profile 
+git ls -la
+nano .gitignore 
+nano .bash_profile 
+nano .bash_profile 
+cat .bash_profile 
+nano .xinitrc 
+gc
+gp
+reboot
+sudo reboot
+ls -la
+gc && gp
+nano .bash_logout 
+cat .bash_profile 
+git ls -la
+nano .gitignore 
+nano .bash_profile 
+nano .bash_profile 
+cat .bash_profile 
+nano .xinitrc 
+gc
+gp
+reboot
+sudo reboot
