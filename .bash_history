@@ -148,3 +148,9 @@ gc
 gp
 reboot
 sudo reboot
+git reset --hard
+git pull origin main
+gc
+git status
+git branch -a
+git diff origin/main
